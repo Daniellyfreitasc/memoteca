@@ -10,6 +10,20 @@
     margin-top: 70px;
     width: 200px;
   }
+
+  .botao-redondo{
+    color: #FFF;
+    border: #154580;
+    background-color:  #154580;
+    border-radius: 30px;
+    width: 100px;
+    box-shadow: 2px 2px 0px #C4EDFF;
+    padding: 0 20px;    
+    cursor: pointer;
+    box-sizing: border-box;
+  
+    
+  }
   
   .criar-pensamentos {
     padding: 2rem 0;
