@@ -16,3 +16,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Instrutora Nayanne Batista (Nay - https://github.com/NayanneBatista)
+
+
+https://www.alura.com.br/artigos/services-injecao-dependencia-angular-o-que-sao-como-funcionam
