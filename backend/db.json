@@ -2,39 +2,39 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Danielly",
+      "conteudo": "Love of my life, don’t leave me, you’ve stolen my love and now desert me",
+      "autoria": "Freddie Mercury",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Teste",
-      "autoria": "Dev",
+      "conteudo": "O amor é o ridículo da vida. A gente procura nele uma pureza impossível, uma pureza que está sempre se pondo. A vida veio e me levou com ela. Sorte é se abandonar e aceitar essa vaga ideia de paraíso que nos persegue, bonita e breve, como borboletas que só vivem 24 horas. Morrer não dói.",
+      "autoria": "Cazuza",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Saudade de você",
-      "autoria": "Marina",
+      "conteudo": "Open your eyes, look up to the skies and see...",
+      "autoria": "Freddie Mercury",
       "modelo": "modelo3"
     },
     {
-      "id": 4,
-      "conteudo": "Danielly Freitas",
-      "autoria": "Daneilly Freitas",
-      "modelo": "modelo1"
-    },
-    {
       "id": 5,
-      "conteudo": "Danielly Freitas",
-      "autoria": "Daneilly Freitas",
+      "conteudo": "Só se vê bem com o coração, o essencial é invisível aos olhos.",
+      "autoria": "O Pequeno Príncipe, Antoine de Saint-Exupéry",
       "modelo": "modelo1"
     },
     {
       "id": 6,
-      "conteudo": "Pensamento teste",
-      "autoria": "Dany",
-      "modelo": "modelo3"
+      "conteudo": "A vida é uma tempestade (...) Um dia você está tomando sol e no dia seguinte o mar te lança contra as rochas. O que faz de você um homem é o que você faz quando a tempestade vem.",
+      "autoria": "O Conde de Monte Cristo, Alexandre Dumas",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 7,
+      "conteudo": "O amor é a força mais poderosa do universo e quando duas pessoas se amam, nem a distância nem o tempo podem separá-las.",
+      "autoria": "O Melhor de Mim, Nicholas Sparks",
+      "modelo": "modelo1"
     }
   ]
 }
